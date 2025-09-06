@@ -75,3 +75,8 @@ Built with **HTML, CSS, and JavaScript**, the site is designed for **clean UI, r
 - 🔄 Continuous Deployment (**GitHub → Firebase**)  
 
 ---
+
+<p align="center">
+  Made with ❤️ by <b>Shivam Pawar</b>
+</p>
+
